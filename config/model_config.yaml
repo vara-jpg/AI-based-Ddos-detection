@@ -1,0 +1,59 @@
+# Model Configuration
+model:
+  name: 'LSTM_DDoS_Detector'
+  type: 'lstm'
+
+  # Model Architecture
+  input_size: 20
+  hidden_size: 128
+  num_layers: 2
+  output_size: 2 # Normal vs DDoS
+  dropout: 0.2
+  bidirectional: true
+
+  # Training Parameters
+  batch_size: 64
+  learning_rate: 0.001
+  epochs: 100
+  weight_decay: 0.0001 # Regularization to prevent overfitting
+
+  # Data Processing
+  sequence_length: 10
+  train_split: 0.7
+  val_split: 0.2
+  test_split: 0.1
+
+  # Feature Selection
+  features:
+    - 'packet_count'
+    - 'byte_count'
+    - 'duration'
+    - 'packets_per_second'
+    - 'bytes_per_second'
+    - 'flow_size_avg'
+    - 'flow_size_std'
+    - 'inter_arrival_time_avg'
+    - 'inter_arrival_time_std'
+    - 'protocol_type'
+    - 'src_port_entropy'
+    - 'dst_port_entropy'
+    - 'packet_size_variance'
+    - 'flow_duration_variance'
+    - 'tcp_flags_count'
+    - 'icmp_type_count'
+    - 'unique_src_ips'
+    - 'unique_dst_ips'
+    - 'connection_rate'
+    - 'bandwidth_utilization'
+
+# Detection Thresholds
+detection:
+  threshold: 0.5
+  confidence_threshold: 0.8
+  alert_threshold: 0.9
+
+# Model Saving
+checkpoint:
+  save_path: 'models/'
+  save_frequency: 10
+  best_model_path: 'models/best_model.pth'

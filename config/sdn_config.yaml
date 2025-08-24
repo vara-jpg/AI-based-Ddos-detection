@@ -1,0 +1,56 @@
+# SDN Controller Configuration
+controller:
+  name: "DDoS_Detection_Controller"
+  host: "0.0.0.0"
+  port: 6633
+  
+  # OpenFlow Configuration
+  openflow:
+    version: "1.3"
+    miss_send_len: 65535
+    
+  # Flow Monitoring
+  monitoring:
+    flow_stats_interval: 1  # seconds
+    port_stats_interval: 1  # seconds
+    table_stats_interval: 5  # seconds
+    
+  # Flow Table Management
+  flow_table:
+    idle_timeout: 60
+    hard_timeout: 300
+    priority_base: 100
+    
+# Network Topology
+topology:
+  switches: 4
+  hosts_per_switch: 2
+  link_bandwidth: 10  # Mbps
+  
+# Traffic Generation
+traffic:
+  normal_traffic_rate: 100  # packets/sec
+  attack_traffic_rate: 50   # packets/sec (low-rate)
+  attack_duration: 300      # seconds
+  
+# Mitigation Strategies
+mitigation:
+  enable_auto_mitigation: true
+  mitigation_strategies:
+    - "rate_limiting"
+    - "flow_blocking"
+    - "traffic_redirection"
+    
+  rate_limiting:
+    max_packets_per_second: 1000
+    burst_size: 100
+    
+  flow_blocking:
+    block_duration: 300  # seconds
+    
+# Logging
+logging:
+  level: "INFO"
+  log_file: "logs/sdn_controller.log"
+  max_file_size: "10MB"
+  backup_count: 5

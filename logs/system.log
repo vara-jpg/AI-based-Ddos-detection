@@ -1,0 +1,338 @@
+2025-08-03 19:21:20,141 - ModelTrainer - INFO - train_model.py:45 - Using device: cpu
+2025-08-03 19:21:20,143 - ModelTrainer - INFO - train_model.py:68 - DDoS Model Trainer initialized
+2025-08-03 19:21:20,143 - ModelTrainer - INFO - train_model.py:106 - Loading training data...
+2025-08-03 19:21:20,143 - ModelTrainer - INFO - train_model.py:134 - Generating synthetic data...
+2025-08-03 19:21:20,860 - ModelTrainer - INFO - train_model.py:182 - Generated 10000 synthetic samples
+2025-08-03 19:21:20,880 - ModelTrainer - INFO - train_model.py:187 - Preprocessing data...
+2025-08-03 19:21:20,947 - ModelTrainer - INFO - train_model.py:127 - Data loaded successfully:
+2025-08-03 19:21:20,947 - ModelTrainer - INFO - train_model.py:128 -   Training samples: 7000
+2025-08-03 19:21:20,948 - ModelTrainer - INFO - train_model.py:129 -   Validation samples: 2000
+2025-08-03 19:21:20,948 - ModelTrainer - INFO - train_model.py:130 -   Test samples: 1000
+2025-08-03 19:25:07,670 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 19:25:07,671 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 19:25:07,671 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 19:25:07,671 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 19:25:08,355 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 19:25:08,372 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 19:25:08,441 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 19:25:08,441 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 19:25:08,442 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 19:25:08,442 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 19:34:08,565 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 19:34:08,566 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 19:34:08,566 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 19:34:08,566 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 19:34:09,310 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 19:34:09,327 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 19:34:09,375 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 19:34:09,375 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 19:34:09,376 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 19:34:09,376 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 19:39:00,383 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 19:39:00,383 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 19:39:00,384 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 19:39:00,384 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 19:39:01,048 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 19:39:01,070 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 19:39:01,115 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 19:39:01,116 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 19:39:01,116 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 19:39:01,116 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 19:39:59,780 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 19:39:59,780 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 19:39:59,781 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 19:39:59,781 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 19:40:00,504 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 19:40:00,523 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 19:40:00,566 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 19:40:00,567 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 19:40:00,567 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 19:40:00,567 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 19:40:02,425 - ModelTrainer - INFO - train_model.py:313 - Model built: LSTM_DDoS_Detector
+2025-08-03 19:40:02,425 - ModelTrainer - INFO - train_model.py:314 - Total parameters: 567,906
+2025-08-03 19:40:02,426 - ModelTrainer - INFO - train_model.py:315 - Trainable parameters: 567,906
+2025-08-03 19:40:02,426 - ModelTrainer - INFO - train_model.py:389 - Starting training for 100 epochs...
+2025-08-03 19:40:05,681 - ModelTrainer - INFO - train_model.py:427 - Epoch 1/100 | Train Loss: 0.1050 | Train Acc: 99.24% | Val Loss: 0.0176 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:40:05,695 - ModelTrainer - INFO - train_model.py:438 - New best model saved with validation accuracy: 100.00%
+2025-08-03 19:40:08,963 - ModelTrainer - INFO - train_model.py:427 - Epoch 2/100 | Train Loss: 0.0165 | Train Acc: 99.93% | Val Loss: 0.0059 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.27s
+2025-08-03 19:40:12,113 - ModelTrainer - INFO - train_model.py:427 - Epoch 3/100 | Train Loss: 0.0064 | Train Acc: 100.00% | Val Loss: 0.0025 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.15s
+2025-08-03 19:40:15,208 - ModelTrainer - INFO - train_model.py:427 - Epoch 4/100 | Train Loss: 0.0053 | Train Acc: 99.94% | Val Loss: 0.0029 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.09s
+2025-08-03 19:40:18,348 - ModelTrainer - INFO - train_model.py:427 - Epoch 5/100 | Train Loss: 0.0030 | Train Acc: 99.97% | Val Loss: 0.0014 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.14s
+2025-08-03 19:40:21,537 - ModelTrainer - INFO - train_model.py:427 - Epoch 6/100 | Train Loss: 0.0017 | Train Acc: 100.00% | Val Loss: 0.0014 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.19s
+2025-08-03 19:40:24,644 - ModelTrainer - INFO - train_model.py:427 - Epoch 7/100 | Train Loss: 0.0013 | Train Acc: 100.00% | Val Loss: 0.0014 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.11s
+2025-08-03 19:40:27,897 - ModelTrainer - INFO - train_model.py:427 - Epoch 8/100 | Train Loss: 0.0011 | Train Acc: 100.00% | Val Loss: 0.0008 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.25s
+2025-08-03 19:40:31,057 - ModelTrainer - INFO - train_model.py:427 - Epoch 9/100 | Train Loss: 0.0009 | Train Acc: 100.00% | Val Loss: 0.0006 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.16s
+2025-08-03 19:40:34,201 - ModelTrainer - INFO - train_model.py:427 - Epoch 10/100 | Train Loss: 0.0008 | Train Acc: 100.00% | Val Loss: 0.0012 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.14s
+2025-08-03 19:40:37,353 - ModelTrainer - INFO - train_model.py:427 - Epoch 11/100 | Train Loss: 0.0008 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.14s
+2025-08-03 19:40:40,599 - ModelTrainer - INFO - train_model.py:427 - Epoch 12/100 | Train Loss: 0.0006 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:40:43,883 - ModelTrainer - INFO - train_model.py:427 - Epoch 13/100 | Train Loss: 0.0005 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.28s
+2025-08-03 19:40:46,943 - ModelTrainer - INFO - train_model.py:427 - Epoch 14/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.06s
+2025-08-03 19:40:50,155 - ModelTrainer - INFO - train_model.py:427 - Epoch 15/100 | Train Loss: 0.0005 | Train Acc: 100.00% | Val Loss: 0.0010 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.21s
+2025-08-03 19:40:53,409 - ModelTrainer - INFO - train_model.py:427 - Epoch 16/100 | Train Loss: 0.0019 | Train Acc: 99.94% | Val Loss: 0.0042 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.25s
+2025-08-03 19:40:56,561 - ModelTrainer - INFO - train_model.py:427 - Epoch 17/100 | Train Loss: 0.0028 | Train Acc: 99.97% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.15s
+2025-08-03 19:41:00,067 - ModelTrainer - INFO - train_model.py:427 - Epoch 18/100 | Train Loss: 0.0016 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.51s
+2025-08-03 19:41:03,217 - ModelTrainer - INFO - train_model.py:427 - Epoch 19/100 | Train Loss: 0.0012 | Train Acc: 99.99% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.15s
+2025-08-03 19:41:06,400 - ModelTrainer - INFO - train_model.py:427 - Epoch 20/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.18s
+2025-08-03 19:41:09,813 - ModelTrainer - INFO - train_model.py:427 - Epoch 21/100 | Train Loss: 0.0006 | Train Acc: 99.97% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.40s
+2025-08-03 19:41:13,148 - ModelTrainer - INFO - train_model.py:427 - Epoch 22/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:41:15,939 - ModelTrainer - INFO - train_model.py:427 - Epoch 23/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.79s
+2025-08-03 19:41:18,865 - ModelTrainer - INFO - train_model.py:427 - Epoch 24/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.93s
+2025-08-03 19:41:22,091 - ModelTrainer - INFO - train_model.py:427 - Epoch 25/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.23s
+2025-08-03 19:41:24,695 - ModelTrainer - INFO - train_model.py:427 - Epoch 26/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.60s
+2025-08-03 19:41:27,273 - ModelTrainer - INFO - train_model.py:427 - Epoch 27/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.58s
+2025-08-03 19:41:30,042 - ModelTrainer - INFO - train_model.py:427 - Epoch 28/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.77s
+2025-08-03 19:41:32,628 - ModelTrainer - INFO - train_model.py:427 - Epoch 29/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.59s
+2025-08-03 19:41:35,305 - ModelTrainer - INFO - train_model.py:427 - Epoch 30/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.68s
+2025-08-03 19:41:37,908 - ModelTrainer - INFO - train_model.py:427 - Epoch 31/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.59s
+2025-08-03 19:41:40,529 - ModelTrainer - INFO - train_model.py:427 - Epoch 32/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.62s
+2025-08-03 19:41:43,111 - ModelTrainer - INFO - train_model.py:427 - Epoch 33/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.58s
+2025-08-03 19:41:45,880 - ModelTrainer - INFO - train_model.py:427 - Epoch 34/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.77s
+2025-08-03 19:41:48,594 - ModelTrainer - INFO - train_model.py:427 - Epoch 35/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0006 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 2.71s
+2025-08-03 19:41:51,791 - ModelTrainer - INFO - train_model.py:427 - Epoch 36/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.20s
+2025-08-03 19:41:54,765 - ModelTrainer - INFO - train_model.py:427 - Epoch 37/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.97s
+2025-08-03 19:41:57,911 - ModelTrainer - INFO - train_model.py:427 - Epoch 38/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.15s
+2025-08-03 19:42:01,287 - ModelTrainer - INFO - train_model.py:427 - Epoch 39/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.38s
+2025-08-03 19:42:04,540 - ModelTrainer - INFO - train_model.py:427 - Epoch 40/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:42:07,742 - ModelTrainer - INFO - train_model.py:427 - Epoch 41/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0005 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.19s
+2025-08-03 19:42:10,883 - ModelTrainer - INFO - train_model.py:427 - Epoch 42/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.14s
+2025-08-03 19:42:14,112 - ModelTrainer - INFO - train_model.py:427 - Epoch 43/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.23s
+2025-08-03 19:42:17,245 - ModelTrainer - INFO - train_model.py:427 - Epoch 44/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.13s
+2025-08-03 19:42:20,448 - ModelTrainer - INFO - train_model.py:427 - Epoch 45/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.20s
+2025-08-03 19:42:23,693 - ModelTrainer - INFO - train_model.py:427 - Epoch 46/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.24s
+2025-08-03 19:42:26,787 - ModelTrainer - INFO - train_model.py:427 - Epoch 47/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0007 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.09s
+2025-08-03 19:42:30,046 - ModelTrainer - INFO - train_model.py:427 - Epoch 48/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0013 | Val Acc: 99.90% | Val F1: 0.9990 | Time: 3.26s
+2025-08-03 19:42:33,202 - ModelTrainer - INFO - train_model.py:427 - Epoch 49/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.16s
+2025-08-03 19:42:36,467 - ModelTrainer - INFO - train_model.py:427 - Epoch 50/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:42:40,133 - ModelTrainer - INFO - train_model.py:427 - Epoch 51/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.65s
+2025-08-03 19:42:43,928 - ModelTrainer - INFO - train_model.py:427 - Epoch 52/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.79s
+2025-08-03 19:42:47,197 - ModelTrainer - INFO - train_model.py:427 - Epoch 53/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.27s
+2025-08-03 19:42:50,501 - ModelTrainer - INFO - train_model.py:427 - Epoch 54/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0005 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:42:53,737 - ModelTrainer - INFO - train_model.py:427 - Epoch 55/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.24s
+2025-08-03 19:42:57,323 - ModelTrainer - INFO - train_model.py:427 - Epoch 56/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0008 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.59s
+2025-08-03 19:43:01,011 - ModelTrainer - INFO - train_model.py:427 - Epoch 57/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.69s
+2025-08-03 19:43:04,698 - ModelTrainer - INFO - train_model.py:427 - Epoch 58/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.69s
+2025-08-03 19:43:08,122 - ModelTrainer - INFO - train_model.py:427 - Epoch 59/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.42s
+2025-08-03 19:43:11,776 - ModelTrainer - INFO - train_model.py:427 - Epoch 60/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.65s
+2025-08-03 19:43:15,739 - ModelTrainer - INFO - train_model.py:427 - Epoch 61/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.95s
+2025-08-03 19:43:19,130 - ModelTrainer - INFO - train_model.py:427 - Epoch 62/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.39s
+2025-08-03 19:43:23,444 - ModelTrainer - INFO - train_model.py:427 - Epoch 63/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.31s
+2025-08-03 19:43:27,641 - ModelTrainer - INFO - train_model.py:427 - Epoch 64/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.20s
+2025-08-03 19:43:31,560 - ModelTrainer - INFO - train_model.py:427 - Epoch 65/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.92s
+2025-08-03 19:43:35,571 - ModelTrainer - INFO - train_model.py:427 - Epoch 66/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.01s
+2025-08-03 19:43:39,638 - ModelTrainer - INFO - train_model.py:427 - Epoch 67/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.07s
+2025-08-03 19:43:42,898 - ModelTrainer - INFO - train_model.py:427 - Epoch 68/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:43:46,268 - ModelTrainer - INFO - train_model.py:427 - Epoch 69/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:43:49,586 - ModelTrainer - INFO - train_model.py:427 - Epoch 70/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:43:52,930 - ModelTrainer - INFO - train_model.py:427 - Epoch 71/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:43:56,156 - ModelTrainer - INFO - train_model.py:427 - Epoch 72/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.23s
+2025-08-03 19:43:59,535 - ModelTrainer - INFO - train_model.py:427 - Epoch 73/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.38s
+2025-08-03 19:44:02,821 - ModelTrainer - INFO - train_model.py:427 - Epoch 74/100 | Train Loss: 0.0003 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:44:06,119 - ModelTrainer - INFO - train_model.py:427 - Epoch 75/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:44:09,378 - ModelTrainer - INFO - train_model.py:427 - Epoch 76/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:44:12,621 - ModelTrainer - INFO - train_model.py:427 - Epoch 77/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.24s
+2025-08-03 19:44:15,870 - ModelTrainer - INFO - train_model.py:427 - Epoch 78/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:44:19,134 - ModelTrainer - INFO - train_model.py:427 - Epoch 79/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:44:22,345 - ModelTrainer - INFO - train_model.py:427 - Epoch 80/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.21s
+2025-08-03 19:44:25,643 - ModelTrainer - INFO - train_model.py:427 - Epoch 81/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.28s
+2025-08-03 19:44:28,851 - ModelTrainer - INFO - train_model.py:427 - Epoch 82/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.21s
+2025-08-03 19:44:32,250 - ModelTrainer - INFO - train_model.py:427 - Epoch 83/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.40s
+2025-08-03 19:44:35,505 - ModelTrainer - INFO - train_model.py:427 - Epoch 84/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:44:38,701 - ModelTrainer - INFO - train_model.py:427 - Epoch 85/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.20s
+2025-08-03 19:44:41,983 - ModelTrainer - INFO - train_model.py:427 - Epoch 86/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.28s
+2025-08-03 19:44:45,219 - ModelTrainer - INFO - train_model.py:427 - Epoch 87/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.24s
+2025-08-03 19:44:48,438 - ModelTrainer - INFO - train_model.py:427 - Epoch 88/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.22s
+2025-08-03 19:44:51,778 - ModelTrainer - INFO - train_model.py:427 - Epoch 89/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:44:55,033 - ModelTrainer - INFO - train_model.py:427 - Epoch 90/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.25s
+2025-08-03 19:44:58,581 - ModelTrainer - INFO - train_model.py:427 - Epoch 91/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.54s
+2025-08-03 19:45:02,435 - ModelTrainer - INFO - train_model.py:427 - Epoch 92/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.85s
+2025-08-03 19:45:05,532 - ModelTrainer - INFO - train_model.py:427 - Epoch 93/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.10s
+2025-08-03 19:45:08,460 - ModelTrainer - INFO - train_model.py:427 - Epoch 94/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.93s
+2025-08-03 19:45:11,207 - ModelTrainer - INFO - train_model.py:427 - Epoch 95/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 2.75s
+2025-08-03 19:45:14,757 - ModelTrainer - INFO - train_model.py:427 - Epoch 96/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.55s
+2025-08-03 19:45:17,973 - ModelTrainer - INFO - train_model.py:427 - Epoch 97/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.22s
+2025-08-03 19:45:21,152 - ModelTrainer - INFO - train_model.py:427 - Epoch 98/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.18s
+2025-08-03 19:45:24,343 - ModelTrainer - INFO - train_model.py:427 - Epoch 99/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.19s
+2025-08-03 19:45:27,703 - ModelTrainer - INFO - train_model.py:427 - Epoch 100/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.36s
+2025-08-03 19:45:27,713 - ModelTrainer - INFO - train_model.py:446 - Training completed!
+2025-08-03 19:45:27,714 - ModelTrainer - INFO - train_model.py:447 - Best validation accuracy: 100.00%
+2025-08-03 19:45:27,714 - ModelTrainer - INFO - train_model.py:451 - Testing model...
+2025-08-03 19:45:27,821 - ModelTrainer - INFO - train_model.py:485 - Test Results:
+2025-08-03 19:45:27,821 - ModelTrainer - INFO - train_model.py:486 -   Accuracy: 99.90%
+2025-08-03 19:45:27,821 - ModelTrainer - INFO - train_model.py:487 -   Precision: 0.9990
+2025-08-03 19:45:27,821 - ModelTrainer - INFO - train_model.py:488 -   Recall: 0.9990
+2025-08-03 19:45:27,821 - ModelTrainer - INFO - train_model.py:489 -   F1-Score: 0.9990
+2025-08-03 19:53:56,627 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 19:53:56,628 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 19:53:56,628 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 19:53:56,628 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 19:53:57,374 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 19:53:57,396 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 19:53:57,450 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 19:53:57,451 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 19:53:57,451 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 19:53:57,451 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 19:53:58,948 - ModelTrainer - INFO - train_model.py:313 - Model built: LSTM_DDoS_Detector
+2025-08-03 19:53:58,949 - ModelTrainer - INFO - train_model.py:314 - Total parameters: 567,906
+2025-08-03 19:53:58,949 - ModelTrainer - INFO - train_model.py:315 - Trainable parameters: 567,906
+2025-08-03 19:53:58,949 - ModelTrainer - INFO - train_model.py:389 - Starting training for 100 epochs...
+2025-08-03 19:54:02,214 - ModelTrainer - INFO - train_model.py:427 - Epoch 1/100 | Train Loss: 0.1019 | Train Acc: 99.26% | Val Loss: 0.0159 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:54:02,229 - ModelTrainer - INFO - train_model.py:438 - New best model saved with validation accuracy: 100.00%
+2025-08-03 19:54:05,571 - ModelTrainer - INFO - train_model.py:427 - Epoch 2/100 | Train Loss: 0.0144 | Train Acc: 99.99% | Val Loss: 0.0061 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:54:09,122 - ModelTrainer - INFO - train_model.py:427 - Epoch 3/100 | Train Loss: 0.0069 | Train Acc: 99.94% | Val Loss: 0.0026 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.55s
+2025-08-03 19:54:12,673 - ModelTrainer - INFO - train_model.py:427 - Epoch 4/100 | Train Loss: 0.0037 | Train Acc: 100.00% | Val Loss: 0.0015 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.55s
+2025-08-03 19:54:16,112 - ModelTrainer - INFO - train_model.py:427 - Epoch 5/100 | Train Loss: 0.0024 | Train Acc: 100.00% | Val Loss: 0.0010 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.44s
+2025-08-03 19:54:19,455 - ModelTrainer - INFO - train_model.py:427 - Epoch 6/100 | Train Loss: 0.0018 | Train Acc: 100.00% | Val Loss: 0.0007 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:54:22,688 - ModelTrainer - INFO - train_model.py:427 - Epoch 7/100 | Train Loss: 0.0013 | Train Acc: 100.00% | Val Loss: 0.0006 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.23s
+2025-08-03 19:54:25,913 - ModelTrainer - INFO - train_model.py:427 - Epoch 8/100 | Train Loss: 0.0009 | Train Acc: 100.00% | Val Loss: 0.0005 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.22s
+2025-08-03 19:54:29,094 - ModelTrainer - INFO - train_model.py:427 - Epoch 9/100 | Train Loss: 0.0010 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.18s
+2025-08-03 19:54:32,413 - ModelTrainer - INFO - train_model.py:427 - Epoch 10/100 | Train Loss: 0.0025 | Train Acc: 99.96% | Val Loss: 0.0086 | Val Acc: 99.90% | Val F1: 0.9990 | Time: 3.32s
+2025-08-03 19:54:35,725 - ModelTrainer - INFO - train_model.py:427 - Epoch 11/100 | Train Loss: 0.0012 | Train Acc: 99.99% | Val Loss: 0.0058 | Val Acc: 99.90% | Val F1: 0.9990 | Time: 3.30s
+2025-08-03 19:54:38,933 - ModelTrainer - INFO - train_model.py:427 - Epoch 12/100 | Train Loss: 0.0006 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.21s
+2025-08-03 19:54:42,133 - ModelTrainer - INFO - train_model.py:427 - Epoch 13/100 | Train Loss: 0.0005 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.20s
+2025-08-03 19:54:45,314 - ModelTrainer - INFO - train_model.py:427 - Epoch 14/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.18s
+2025-08-03 19:54:48,605 - ModelTrainer - INFO - train_model.py:427 - Epoch 15/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:54:51,837 - ModelTrainer - INFO - train_model.py:427 - Epoch 16/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.23s
+2025-08-03 19:54:55,028 - ModelTrainer - INFO - train_model.py:427 - Epoch 17/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0007 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.19s
+2025-08-03 19:54:58,469 - ModelTrainer - INFO - train_model.py:427 - Epoch 18/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.44s
+2025-08-03 19:55:01,938 - ModelTrainer - INFO - train_model.py:427 - Epoch 19/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.47s
+2025-08-03 19:55:05,264 - ModelTrainer - INFO - train_model.py:427 - Epoch 20/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:55:08,560 - ModelTrainer - INFO - train_model.py:427 - Epoch 21/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.28s
+2025-08-03 19:55:11,827 - ModelTrainer - INFO - train_model.py:427 - Epoch 22/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.27s
+2025-08-03 19:55:15,160 - ModelTrainer - INFO - train_model.py:427 - Epoch 23/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:55:18,463 - ModelTrainer - INFO - train_model.py:427 - Epoch 24/100 | Train Loss: 0.0009 | Train Acc: 99.99% | Val Loss: 0.0089 | Val Acc: 99.85% | Val F1: 0.9985 | Time: 3.30s
+2025-08-03 19:55:21,732 - ModelTrainer - INFO - train_model.py:427 - Epoch 25/100 | Train Loss: 0.0011 | Train Acc: 99.99% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.27s
+2025-08-03 19:55:25,060 - ModelTrainer - INFO - train_model.py:427 - Epoch 26/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0007 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.33s
+2025-08-03 19:55:28,300 - ModelTrainer - INFO - train_model.py:427 - Epoch 27/100 | Train Loss: 0.0016 | Train Acc: 99.99% | Val Loss: 0.0033 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.24s
+2025-08-03 19:55:31,691 - ModelTrainer - INFO - train_model.py:427 - Epoch 28/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0014 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.39s
+2025-08-03 19:55:34,992 - ModelTrainer - INFO - train_model.py:427 - Epoch 29/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0023 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 3.30s
+2025-08-03 19:55:38,295 - ModelTrainer - INFO - train_model.py:427 - Epoch 30/100 | Train Loss: 0.0004 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:55:41,676 - ModelTrainer - INFO - train_model.py:427 - Epoch 31/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:55:45,098 - ModelTrainer - INFO - train_model.py:427 - Epoch 32/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.42s
+2025-08-03 19:55:48,418 - ModelTrainer - INFO - train_model.py:427 - Epoch 33/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:55:51,759 - ModelTrainer - INFO - train_model.py:427 - Epoch 34/100 | Train Loss: 0.0005 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:55:55,037 - ModelTrainer - INFO - train_model.py:427 - Epoch 35/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.28s
+2025-08-03 19:55:58,676 - ModelTrainer - INFO - train_model.py:427 - Epoch 36/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.64s
+2025-08-03 19:56:02,047 - ModelTrainer - INFO - train_model.py:427 - Epoch 37/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:56:05,474 - ModelTrainer - INFO - train_model.py:427 - Epoch 38/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.43s
+2025-08-03 19:56:08,815 - ModelTrainer - INFO - train_model.py:427 - Epoch 39/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:56:12,118 - ModelTrainer - INFO - train_model.py:427 - Epoch 40/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:56:15,467 - ModelTrainer - INFO - train_model.py:427 - Epoch 41/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:56:18,774 - ModelTrainer - INFO - train_model.py:427 - Epoch 42/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.31s
+2025-08-03 19:56:22,127 - ModelTrainer - INFO - train_model.py:427 - Epoch 43/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:56:25,480 - ModelTrainer - INFO - train_model.py:427 - Epoch 44/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:56:28,791 - ModelTrainer - INFO - train_model.py:427 - Epoch 45/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.31s
+2025-08-03 19:56:32,249 - ModelTrainer - INFO - train_model.py:427 - Epoch 46/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.46s
+2025-08-03 19:56:35,616 - ModelTrainer - INFO - train_model.py:427 - Epoch 47/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:56:38,916 - ModelTrainer - INFO - train_model.py:427 - Epoch 48/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:56:42,295 - ModelTrainer - INFO - train_model.py:427 - Epoch 49/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.38s
+2025-08-03 19:56:45,568 - ModelTrainer - INFO - train_model.py:427 - Epoch 50/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.27s
+2025-08-03 19:56:48,949 - ModelTrainer - INFO - train_model.py:427 - Epoch 51/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:56:52,330 - ModelTrainer - INFO - train_model.py:427 - Epoch 52/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.38s
+2025-08-03 19:56:55,630 - ModelTrainer - INFO - train_model.py:427 - Epoch 53/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:56:59,205 - ModelTrainer - INFO - train_model.py:427 - Epoch 54/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.57s
+2025-08-03 19:57:02,680 - ModelTrainer - INFO - train_model.py:427 - Epoch 55/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.47s
+2025-08-03 19:57:06,008 - ModelTrainer - INFO - train_model.py:427 - Epoch 56/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:57:09,437 - ModelTrainer - INFO - train_model.py:427 - Epoch 57/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.43s
+2025-08-03 19:57:12,732 - ModelTrainer - INFO - train_model.py:427 - Epoch 58/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:57:16,143 - ModelTrainer - INFO - train_model.py:427 - Epoch 59/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.41s
+2025-08-03 19:57:19,504 - ModelTrainer - INFO - train_model.py:427 - Epoch 60/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.36s
+2025-08-03 19:57:22,883 - ModelTrainer - INFO - train_model.py:427 - Epoch 61/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:57:26,232 - ModelTrainer - INFO - train_model.py:427 - Epoch 62/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:57:29,568 - ModelTrainer - INFO - train_model.py:427 - Epoch 63/100 | Train Loss: 0.0004 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:57:33,028 - ModelTrainer - INFO - train_model.py:427 - Epoch 64/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.46s
+2025-08-03 19:57:36,344 - ModelTrainer - INFO - train_model.py:427 - Epoch 65/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:57:39,716 - ModelTrainer - INFO - train_model.py:427 - Epoch 66/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:57:43,032 - ModelTrainer - INFO - train_model.py:427 - Epoch 67/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:57:46,340 - ModelTrainer - INFO - train_model.py:427 - Epoch 68/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.31s
+2025-08-03 19:57:49,676 - ModelTrainer - INFO - train_model.py:427 - Epoch 69/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.34s
+2025-08-03 19:57:53,059 - ModelTrainer - INFO - train_model.py:427 - Epoch 70/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.38s
+2025-08-03 19:57:56,364 - ModelTrainer - INFO - train_model.py:427 - Epoch 71/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:58:00,028 - ModelTrainer - INFO - train_model.py:427 - Epoch 72/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.66s
+2025-08-03 19:58:03,378 - ModelTrainer - INFO - train_model.py:427 - Epoch 73/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:58:06,811 - ModelTrainer - INFO - train_model.py:427 - Epoch 74/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.43s
+2025-08-03 19:58:10,180 - ModelTrainer - INFO - train_model.py:427 - Epoch 75/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.37s
+2025-08-03 19:58:13,542 - ModelTrainer - INFO - train_model.py:427 - Epoch 76/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.36s
+2025-08-03 19:58:16,905 - ModelTrainer - INFO - train_model.py:427 - Epoch 77/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.36s
+2025-08-03 19:58:20,424 - ModelTrainer - INFO - train_model.py:427 - Epoch 78/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.52s
+2025-08-03 19:58:24,263 - ModelTrainer - INFO - train_model.py:427 - Epoch 79/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.84s
+2025-08-03 19:58:28,356 - ModelTrainer - INFO - train_model.py:427 - Epoch 80/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.09s
+2025-08-03 19:58:31,888 - ModelTrainer - INFO - train_model.py:427 - Epoch 81/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.52s
+2025-08-03 19:58:35,211 - ModelTrainer - INFO - train_model.py:427 - Epoch 82/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:58:38,558 - ModelTrainer - INFO - train_model.py:427 - Epoch 83/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:58:41,880 - ModelTrainer - INFO - train_model.py:427 - Epoch 84/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.32s
+2025-08-03 19:58:45,170 - ModelTrainer - INFO - train_model.py:427 - Epoch 85/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:58:48,435 - ModelTrainer - INFO - train_model.py:427 - Epoch 86/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.26s
+2025-08-03 19:58:51,744 - ModelTrainer - INFO - train_model.py:427 - Epoch 87/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.31s
+2025-08-03 19:58:55,078 - ModelTrainer - INFO - train_model.py:427 - Epoch 88/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.33s
+2025-08-03 19:58:58,717 - ModelTrainer - INFO - train_model.py:427 - Epoch 89/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.64s
+2025-08-03 19:59:02,235 - ModelTrainer - INFO - train_model.py:427 - Epoch 90/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.52s
+2025-08-03 19:59:05,643 - ModelTrainer - INFO - train_model.py:427 - Epoch 91/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.39s
+2025-08-03 19:59:08,939 - ModelTrainer - INFO - train_model.py:427 - Epoch 92/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.30s
+2025-08-03 19:59:12,413 - ModelTrainer - INFO - train_model.py:427 - Epoch 93/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.47s
+2025-08-03 19:59:15,705 - ModelTrainer - INFO - train_model.py:427 - Epoch 94/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.29s
+2025-08-03 19:59:19,059 - ModelTrainer - INFO - train_model.py:427 - Epoch 95/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.35s
+2025-08-03 19:59:22,804 - ModelTrainer - INFO - train_model.py:427 - Epoch 96/100 | Train Loss: 0.0004 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.74s
+2025-08-03 19:59:27,230 - ModelTrainer - INFO - train_model.py:427 - Epoch 97/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.43s
+2025-08-03 19:59:30,543 - ModelTrainer - INFO - train_model.py:427 - Epoch 98/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.31s
+2025-08-03 19:59:33,907 - ModelTrainer - INFO - train_model.py:427 - Epoch 99/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.36s
+2025-08-03 19:59:37,027 - ModelTrainer - INFO - train_model.py:427 - Epoch 100/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 3.12s
+2025-08-03 19:59:37,039 - ModelTrainer - INFO - train_model.py:446 - Training completed!
+2025-08-03 19:59:37,040 - ModelTrainer - INFO - train_model.py:447 - Best validation accuracy: 100.00%
+2025-08-03 19:59:37,040 - ModelTrainer - INFO - train_model.py:451 - Testing model...
+2025-08-03 19:59:37,125 - ModelTrainer - INFO - train_model.py:485 - Test Results:
+2025-08-03 19:59:37,126 - ModelTrainer - INFO - train_model.py:486 -   Accuracy: 100.00%
+2025-08-03 19:59:37,126 - ModelTrainer - INFO - train_model.py:487 -   Precision: 1.0000
+2025-08-03 19:59:37,126 - ModelTrainer - INFO - train_model.py:488 -   Recall: 1.0000
+2025-08-03 19:59:37,126 - ModelTrainer - INFO - train_model.py:489 -   F1-Score: 1.0000
+2025-08-03 22:10:56,700 - ModelTrainer - INFO - train_model.py:51 - Using device: cpu
+2025-08-03 22:10:56,702 - ModelTrainer - INFO - train_model.py:74 - DDoS Model Trainer initialized
+2025-08-03 22:10:56,702 - ModelTrainer - INFO - train_model.py:112 - Loading training data...
+2025-08-03 22:10:56,703 - ModelTrainer - INFO - train_model.py:140 - Generating synthetic data...
+2025-08-03 22:10:58,132 - ModelTrainer - INFO - train_model.py:188 - Generated 10000 synthetic samples
+2025-08-03 22:10:58,173 - ModelTrainer - INFO - train_model.py:193 - Preprocessing data...
+2025-08-03 22:10:58,276 - ModelTrainer - INFO - train_model.py:133 - Data loaded successfully:
+2025-08-03 22:10:58,276 - ModelTrainer - INFO - train_model.py:134 -   Training samples: 7000
+2025-08-03 22:10:58,277 - ModelTrainer - INFO - train_model.py:135 -   Validation samples: 2000
+2025-08-03 22:10:58,277 - ModelTrainer - INFO - train_model.py:136 -   Test samples: 1000
+2025-08-03 22:11:01,620 - ModelTrainer - INFO - train_model.py:313 - Model built: LSTM_DDoS_Detector
+2025-08-03 22:11:01,621 - ModelTrainer - INFO - train_model.py:314 - Total parameters: 567,906
+2025-08-03 22:11:01,621 - ModelTrainer - INFO - train_model.py:315 - Trainable parameters: 567,906
+2025-08-03 22:11:01,621 - ModelTrainer - INFO - train_model.py:389 - Starting training for 100 epochs...
+2025-08-03 22:11:07,277 - ModelTrainer - INFO - train_model.py:427 - Epoch 1/100 | Train Loss: 0.0902 | Train Acc: 99.37% | Val Loss: 0.0158 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.66s
+2025-08-03 22:11:07,301 - ModelTrainer - INFO - train_model.py:438 - New best model saved with validation accuracy: 100.00%
+2025-08-03 22:11:12,685 - ModelTrainer - INFO - train_model.py:427 - Epoch 2/100 | Train Loss: 0.0133 | Train Acc: 99.99% | Val Loss: 0.0069 | Val Acc: 99.90% | Val F1: 0.9990 | Time: 5.38s
+2025-08-03 22:11:18,066 - ModelTrainer - INFO - train_model.py:427 - Epoch 3/100 | Train Loss: 0.0063 | Train Acc: 99.97% | Val Loss: 0.0021 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.38s
+2025-08-03 22:11:23,655 - ModelTrainer - INFO - train_model.py:427 - Epoch 4/100 | Train Loss: 0.0032 | Train Acc: 100.00% | Val Loss: 0.0014 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.59s
+2025-08-03 22:11:28,901 - ModelTrainer - INFO - train_model.py:427 - Epoch 5/100 | Train Loss: 0.0022 | Train Acc: 99.99% | Val Loss: 0.0043 | Val Acc: 99.85% | Val F1: 0.9985 | Time: 5.24s
+2025-08-03 22:11:33,765 - ModelTrainer - INFO - train_model.py:427 - Epoch 6/100 | Train Loss: 0.0016 | Train Acc: 100.00% | Val Loss: 0.0007 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.86s
+2025-08-03 22:11:38,609 - ModelTrainer - INFO - train_model.py:427 - Epoch 7/100 | Train Loss: 0.0012 | Train Acc: 100.00% | Val Loss: 0.0005 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.84s
+2025-08-03 22:11:44,201 - ModelTrainer - INFO - train_model.py:427 - Epoch 8/100 | Train Loss: 0.0010 | Train Acc: 100.00% | Val Loss: 0.0004 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.59s
+2025-08-03 22:11:49,497 - ModelTrainer - INFO - train_model.py:427 - Epoch 9/100 | Train Loss: 0.0008 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.30s
+2025-08-03 22:11:55,101 - ModelTrainer - INFO - train_model.py:427 - Epoch 10/100 | Train Loss: 0.0015 | Train Acc: 99.97% | Val Loss: 0.0017 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 5.60s
+2025-08-03 22:12:00,807 - ModelTrainer - INFO - train_model.py:427 - Epoch 11/100 | Train Loss: 0.0018 | Train Acc: 99.97% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.69s
+2025-08-03 22:12:05,778 - ModelTrainer - INFO - train_model.py:427 - Epoch 12/100 | Train Loss: 0.0010 | Train Acc: 99.97% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.97s
+2025-08-03 22:12:10,720 - ModelTrainer - INFO - train_model.py:427 - Epoch 13/100 | Train Loss: 0.0007 | Train Acc: 99.99% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.94s
+2025-08-03 22:12:16,076 - ModelTrainer - INFO - train_model.py:427 - Epoch 14/100 | Train Loss: 0.0005 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.36s
+2025-08-03 22:12:21,412 - ModelTrainer - INFO - train_model.py:427 - Epoch 15/100 | Train Loss: 0.0008 | Train Acc: 99.99% | Val Loss: 0.0033 | Val Acc: 99.95% | Val F1: 0.9995 | Time: 5.34s
+2025-08-03 22:12:26,771 - ModelTrainer - INFO - train_model.py:427 - Epoch 16/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0019 | Val Acc: 99.90% | Val F1: 0.9990 | Time: 5.36s
+2025-08-03 22:12:32,078 - ModelTrainer - INFO - train_model.py:427 - Epoch 17/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0003 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.31s
+2025-08-03 22:12:37,026 - ModelTrainer - INFO - train_model.py:427 - Epoch 18/100 | Train Loss: 0.0004 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.95s
+2025-08-03 22:12:43,658 - ModelTrainer - INFO - train_model.py:427 - Epoch 19/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 6.63s
+2025-08-03 22:12:49,364 - ModelTrainer - INFO - train_model.py:427 - Epoch 20/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.71s
+2025-08-03 22:12:54,438 - ModelTrainer - INFO - train_model.py:427 - Epoch 21/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.06s
+2025-08-03 22:13:00,134 - ModelTrainer - INFO - train_model.py:427 - Epoch 22/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.70s
+2025-08-03 22:13:04,696 - ModelTrainer - INFO - train_model.py:427 - Epoch 23/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.56s
+2025-08-03 22:13:09,285 - ModelTrainer - INFO - train_model.py:427 - Epoch 24/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.59s
+2025-08-03 22:13:14,278 - ModelTrainer - INFO - train_model.py:427 - Epoch 25/100 | Train Loss: 0.0003 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.99s
+2025-08-03 22:13:18,979 - ModelTrainer - INFO - train_model.py:427 - Epoch 26/100 | Train Loss: 0.0004 | Train Acc: 99.99% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.70s
+2025-08-03 22:13:23,669 - ModelTrainer - INFO - train_model.py:427 - Epoch 27/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.69s
+2025-08-03 22:13:28,380 - ModelTrainer - INFO - train_model.py:427 - Epoch 28/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.71s
+2025-08-03 22:13:32,711 - ModelTrainer - INFO - train_model.py:427 - Epoch 29/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0002 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 4.33s
+2025-08-03 22:13:38,610 - ModelTrainer - INFO - train_model.py:427 - Epoch 30/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.90s
+2025-08-03 22:13:44,537 - ModelTrainer - INFO - train_model.py:427 - Epoch 31/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.90s
+2025-08-03 22:13:50,084 - ModelTrainer - INFO - train_model.py:427 - Epoch 32/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.55s
+2025-08-03 22:13:55,516 - ModelTrainer - INFO - train_model.py:427 - Epoch 33/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 5.43s
+2025-08-03 22:14:01,555 - ModelTrainer - INFO - train_model.py:427 - Epoch 34/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 6.04s
+2025-08-03 22:14:08,711 - ModelTrainer - INFO - train_model.py:427 - Epoch 35/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 7.15s
+2025-08-03 22:14:15,405 - ModelTrainer - INFO - train_model.py:427 - Epoch 36/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 6.69s
+2025-08-03 22:14:22,162 - ModelTrainer - INFO - train_model.py:427 - Epoch 37/100 | Train Loss: 0.0002 | Train Acc: 100.00% | Val Loss: 0.0001 | Val Acc: 100.00% | Val F1: 1.0000 | Time: 6.76s

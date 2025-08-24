@@ -1,0 +1,61 @@
+# Detection System Configuration
+detection:
+  name: "Low_Rate_DDoS_Detector"
+  
+  # Detection Parameters
+  window_size: 10        # Time window in seconds
+  slide_window: 5        # Sliding window step in seconds
+  detection_interval: 1  # Detection frequency in seconds
+  
+  # Thresholds
+  thresholds:
+    normal_threshold: 0.3
+    suspicious_threshold: 0.5
+    attack_threshold: 0.7
+    critical_threshold: 0.9
+    
+  # Feature Engineering
+  features:
+    statistical_features: true
+    entropy_features: true
+    temporal_features: true
+    behavioral_features: true
+    
+  # Alert System
+  alerts:
+    enable_alerts: true
+    alert_levels:
+      - "INFO"
+      - "WARNING" 
+      - "CRITICAL"
+      
+    notification_methods:
+      - "console"
+      - "file"
+      - "email"
+      
+  # Performance Monitoring
+  performance:
+    enable_metrics: true
+    metrics_interval: 10  # seconds
+    save_metrics: true
+    metrics_file: "logs/performance_metrics.json"
+    
+# Data Processing
+preprocessing:
+  normalization: "minmax"  # minmax, standard, robust
+  handle_missing: "interpolate"  # drop, interpolate, forward_fill
+  outlier_detection: "iqr"  # iqr, zscore, isolation_forest
+  
+# Real-time Processing
+realtime:
+  buffer_size: 1000
+  processing_threads: 4
+  max_queue_size: 5000
+  
+# Logging
+logging:
+  level: "INFO"
+  log_file: "logs/detection_system.log"
+  max_file_size: "50MB"
+  backup_count: 10
